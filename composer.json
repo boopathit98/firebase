@@ -24,5 +24,5 @@
             "boopathi\\firebase\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
